@@ -1,4 +1,4 @@
-<h1>Weltome to Kuu's Storage</h1>
+<h2>Weltome to Kuu's Storage</h2>
 <br/>
 <h3>My Website: <a href="https://nayuki.cyou">Click here!</a></h3>
 <br/>
