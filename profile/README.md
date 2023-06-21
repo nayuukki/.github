@@ -1,6 +1,6 @@
 <h2>Weltome to Kuu's Storage</h2>
 <br/>
-<h3>My Website: <a href="https://nayuki.cyou">Click here!</a></h3>
+<h5>My Website: <a href="https://nayuki.cyou">Click here!</a></h5>
 <br/>
 <a href="https://nayuki.cyou">
     <img src="https://count.getloli.com/get/@KuuStorage?theme=rule34"/>
