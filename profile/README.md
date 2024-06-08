@@ -6,5 +6,5 @@
     <img src="https://count.getloli.com/get/@KuuStorage?theme=rule34"/>
     <br/>
     <br/>
-    <img src="https://lanyard.cnrad.dev/api/568093374662311956"/>
+    <img src="https://lanyard.cnrad.dev/api/505777744710336542"/>
 </a>
